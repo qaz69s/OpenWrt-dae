@@ -61,7 +61,7 @@ msgid "Disable"
 msgstr "禁用"
 
 msgid "Redirect Mode"
-msgstr "Redir模式"
+msgstr "Redir 模式"
 
 msgid "TPROXY Mode"
 msgstr "TPROXY 模式"
@@ -122,9 +122,3 @@ msgstr "注释"
 
 msgid "Auto reload on save"
 msgstr "保存后自动热重载"
-
-msgid "Dashboard"
-msgstr "面板"
-
-msgid "Open Dashboard"
-msgstr "打开面板"
