@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci-app-monkey\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Monkey"
+msgstr "Monkey"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Config"
+msgstr "配置"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Monkey Running"
+msgstr "Monkey 运行中"
+
+msgid "Monkey Not Running"
+msgstr "Monkey 未运行"
+
+msgid "Collecting data…"
+msgstr "正在获取数据…"
+
+msgid "Basic Settings"
+msgstr "基本设置"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Config File"
+msgstr "配置文件"
+
+msgid "Start Delay (seconds)"
+msgstr "启动延迟（秒）"
+
+msgid "Proxy Settings"
+msgstr "代理设置"
+
+msgid "IPv4 Proxy"
+msgstr "IPv4 代理"
+
+msgid "IPv6 Proxy"
+msgstr "IPv6 代理"
+
+msgid "TCP Mode"
+msgstr "TCP 模式"
+
+msgid "UDP Mode"
+msgstr "UDP 模式"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Redirect Mode"
+msgstr "Redir 模式"
+
+msgid "TPROXY Mode"
+msgstr "TPROXY 模式"
+
+msgid "TUN Mode"
+msgstr "TUN 模式"
+
+msgid "Routing Settings"
+msgstr "路由设置"
+
+msgid "TPROXY FWMark"
+msgstr "TPROXY 防火墙标记"
+
+msgid "TPROXY FWMask"
+msgstr "TPROXY 防火墙掩码"
+
+msgid "TPROXY Rule Preference"
+msgstr "TPROXY 规则优先级"
+
+msgid "TPROXY Route Table"
+msgstr "TPROXY 路由表"
+
+msgid "Editor"
+msgstr "编辑器"
+
+msgid "Lines"
+msgstr "行"
+
+msgid "Unsaved changes"
+msgstr "有未保存的修改"
+
+msgid "Saved"
+msgstr "已保存"
+
+msgid "Configuration cannot be empty!"
+msgstr "配置文件不能为空！"
+
+msgid "Configuration saved, applying..."
+msgstr "配置已保存，正在应用…"
+
+msgid "Configuration applied successfully!"
+msgstr "配置已保存并应用成功！"
+
+msgid "Saved but apply failed: %s"
+msgstr "配置已保存，但应用失败：%s"
+
+msgid "Save failed: %s"
+msgstr "保存失败：%s"
+
+msgid "Service reload failed"
+msgstr "服务重载失败"
+
+msgid "Font Size"
+msgstr "字号"
+
+msgid "Comment"
+msgstr "注释"
+
+msgid "Auto reload on save"
+msgstr "保存后自动热重载"

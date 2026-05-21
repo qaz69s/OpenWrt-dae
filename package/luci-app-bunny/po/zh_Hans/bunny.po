@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Status"
+msgstr "状态"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Transparent proxy for OpenWrt based on sing-box"
+msgstr "基于 sing-box 的 OpenWrt 透明代理"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Bunny Running"
+msgstr "Bunny 运行中"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Bunny Not Running"
+msgstr "Bunny 未运行"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Collecting data…"
+msgstr "正在收集数据…"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Basic Settings"
+msgstr "基本设置"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Auto start on boot"
+msgstr "开机自启"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Config File"
+msgstr "配置文件"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Start Delay (seconds)"
+msgstr "启动延迟（秒）"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Dashboard"
+msgstr "面板"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Open Dashboard"
+msgstr "打开面板"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/app.js
+msgid "Dashboard not configured: "
+msgstr "面板未配置："
+
+#: root/usr/share/luci/menu.d/luci-app-bunny.json
+msgid "Status"
+msgstr "状态"
+
+#: root/usr/share/luci/menu.d/luci-app-bunny.json
+msgid "Settings"
+msgstr "设置"
+
+#: root/usr/share/luci/menu.d/luci-app-bunny.json
+msgid "Config"
+msgstr "配置"
+
+#: root/usr/share/luci/menu.d/luci-app-bunny.json
+msgid "Log"
+msgstr "日志"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Proxy Config"
+msgstr "代理配置"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Enable"
+msgstr "启用"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "IPv4 DNS Hijack"
+msgstr "IPv4 DNS劫持"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "IPv6 DNS Hijack"
+msgstr "IPv6 DNS劫持"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "IPv4 Proxy"
+msgstr "IPv4代理"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "IPv6 Proxy"
+msgstr "IPv6代理"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Fake-IP Ping Hijack"
+msgstr "Fake-IP Ping劫持"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "TCP Mode"
+msgstr "TCP模式"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Disable"
+msgstr "禁用"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Redirect Mode"
+msgstr "Redir 模式"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "TPROXY Mode"
+msgstr "TPROXY模式"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "TUN Mode"
+msgstr "TUN模式"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "UDP Mode"
+msgstr "UDP模式"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Router Proxy"
+msgstr "路由器代理"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Access Control"
+msgstr "访问控制"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "User"
+msgstr "用户"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Group"
+msgstr "组"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "CGroup"
+msgstr "CGroup"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "DNS"
+msgstr "DNS"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Proxy"
+msgstr "代理"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "LAN Proxy"
+msgstr "LAN代理"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Inbound Interface"
+msgstr "入站接口"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Bypass"
+msgstr "绕过"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Bypass China Mainland IP"
+msgstr "绕过中国大陆IP"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Bypass China Mainland IP6"
+msgstr "绕过中国大陆IP6"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Destination TCP Port to Proxy"
+msgstr "代理目标TCP端口"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "All Port"
+msgstr "所有端口"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Commonly Used Port"
+msgstr "常用端口"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Destination UDP Port to Proxy"
+msgstr "代理目标UDP端口"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Bypass DSCP"
+msgstr "绕过DSCP"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Bypass FWMark"
+msgstr "绕过FWMark"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Misc"
+msgstr "杂项"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Reserved IP"
+msgstr "保留IP"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "Reserved IP6"
+msgstr "保留IP6"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "TUN Timeout"
+msgstr "TUN超时"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/proxy.js
+msgid "TUN Interval"
+msgstr "TUN间隔"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/log_app.js
+msgid "App Log"
+msgstr "应用日志"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/log_app.js
+msgid "Clear Log"
+msgstr "清空日志"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/log_app.js
+msgid "Scroll To Bottom"
+msgstr "滚动到底部"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/log_core.js
+msgid "Core Log"
+msgstr "核心日志"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/log_debug.js
+msgid "Debug Log"
+msgstr "调试日志"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/log_debug.js
+msgid "Generate & Download"
+msgstr "生成并下载"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Profile"
+msgstr "配置"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Subscription"
+msgstr "订阅"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Subscription Name"
+msgstr "订阅名称"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Subscription Url"
+msgstr "订阅URL"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Subscription Info Url"
+msgstr "订阅信息URL"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "User Agent"
+msgstr "User Agent"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Update"
+msgstr "更新"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Update At"
+msgstr "更新时间"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Expire At"
+msgstr "到期时间"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Used"
+msgstr "已用"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Total"
+msgstr "总计"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Local"
+msgstr "本地"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Remote"
+msgstr "远程"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Prefer"
+msgstr "偏好"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Edit Subscription"
+msgstr "编辑订阅"
+
+#: applications/luci-app-bunny/htdocs/luci-static/resources/view/bunny/profile.js
+msgid "Upload Profile"
+msgstr "上传配置"
