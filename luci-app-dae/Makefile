@@ -17,3 +17,5 @@ define Package/luci-app-dae/install
  $(INSTALL_DIR) $(1)/usr/libexec/rpcd
   $(INSTALL_BIN) $(CURDIR)/root/usr/libexec/rpcd/luci.dae $(1)/usr/libexec/rpcd/luci.dae
 endef
+# call BuildPackage - OpenWrt buildroot signature
+
